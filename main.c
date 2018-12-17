@@ -16,7 +16,7 @@ char crypt(char *c)
 }
 
 int main(int argc, char const *argv[]) {
-  char cMessage[]="BONJOURZ les ";
+  char cMessage[]="HI EVERYONE ! ";
   int i;
 
   for(i=0; i<strlen(cMessage); i++)
